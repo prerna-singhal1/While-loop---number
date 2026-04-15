@@ -12,5 +12,5 @@ If the number is outside the range, the program keeps asking until a valid numbe
 ## How to Run
 1. Make sure Python is installed
 2. Run the file using:
-   python while_loop_number.py
+3. python while_loop_number.py
 
